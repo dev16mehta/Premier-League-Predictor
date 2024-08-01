@@ -37,7 +37,6 @@ Use Cases:
 Fan Interaction:
 
 Scenario: A football enthusiast is curious about the probable performance of their preferred squad versus a top opponent in an impending game.
-
 Solution: The fan enters the match information into the predictor, which forecasts the result of the match based on player availability, head-to-head statistics, and recent form. A probability distribution for win, lose, or draw outcomes is given to the fan.
 
 Sports Betting:
