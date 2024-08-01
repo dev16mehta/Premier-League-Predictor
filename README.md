@@ -54,13 +54,11 @@ Solution: The reporter uses the predictor to obtain data-driven perspectives and
 Club Management and Planning:
 
 Scenario: The management group of a football team wishes to determine how an injured star will affect their next games.
-
 Solution: To provide insight into possible tactical changes, the predictor assesses the team's past results both with and without the injured player. This supports the management's strategic planning and well-informed choices on player rotation and transfers.
 
 Management of Fantasy Football:
 
 Situation: A fantasy football manager is selecting players for their squad for the next week of games.
-
 Solution: To identify players who are likely to score a lot of points, the predictor looks at player performance trends, forthcoming games, and opponent strength. With these insights, the manager can arrange their lineup to best advantage.
 
 
