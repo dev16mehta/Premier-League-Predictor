@@ -43,13 +43,11 @@ Solution: The fan enters the match information into the predictor, which forecas
 Sports Betting:
 
 Situation: A bettor wants to use statistics to help them make an informed decision when they wish to wager on an EPL match.
-
 Solution: The predictor offers a thorough analysis of the game that includes statistical probability, anticipated scorelines, and player impacts. The bettor can use this information to find wagers that have good odds and the potential to be profitable.
 
 Journalism and Broadcasting:
 
 Situation: A sportswriter is getting ready to do a pre-game analysis for a television show.
-
 Solution: The reporter uses the predictor to obtain data-driven perspectives and produce captivating conversation starters regarding the game, including expected goal scorers, squad advantages and disadvantages, and anticipated results. This improves the broadcast's quality and draws people in with interesting statistics, increasing TRP for the show.
 
 
