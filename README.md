@@ -50,7 +50,7 @@ Journalism and Broadcasting:
 
 Situation: A sportswriter is getting ready to do a pre-game analysis for a television show.
 
-Solution: The reporter employs the predictor to obtain data-driven perspectives and produce captivating conversation starters regarding the game, including expected goal scorers, squad advantages and disadvantages, and anticipated results. This improves the broadcast's quality and draws people in with interesting statistics.
+Solution: The reporter uses the predictor to obtain data-driven perspectives and produce captivating conversation starters regarding the game, including expected goal scorers, squad advantages and disadvantages, and anticipated results. This improves the broadcast's quality and draws people in with interesting statistics, increasing TRP for the show.
 
 
 
