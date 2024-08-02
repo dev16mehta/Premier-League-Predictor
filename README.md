@@ -4,7 +4,8 @@ Premier League
 Predictor
 
 
-Personal Project by Dev Mehta
+Personal Project 
+by Dev Mehta
 
 
 Introduction:
