@@ -36,7 +36,7 @@ def calculate_team_form(df, team, date):
                 points += 1
     return points / 5
 
-# Verify column existence before applying the function
+# Verify column existence before applying function
 required_columns = ['HomeTeam', 'AwayTeam', 'Date', 'FTR']
 for col in required_columns:
     if col not in df.columns:
